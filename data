@@ -1,0 +1,5 @@
+In this code, we used the MNIST dataset for building a generative AI model from scratch because of these three reasons:
+the data is large enough to create a generative AI model
+loading the data is easy
+training a generative AI model on this data will be possible for you, given the computational power of Google Colab
+(https://www.tensorflow.org/datasets/catalog/mnist)
